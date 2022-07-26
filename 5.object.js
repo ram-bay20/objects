@@ -30,5 +30,5 @@ const book2 = Object.create(bookProtos , {
      author: {value: 'Mahatma Gandhi'},
      year: {value: '1938'}
 });
-console.log(book2.summary());
-console.log(book2.age());
+//console.log(book2.summary());
+//console.log(book2.age());
